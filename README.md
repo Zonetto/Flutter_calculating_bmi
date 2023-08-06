@@ -16,5 +16,5 @@
 <img src="https://github.com/Zonetto/Flutter-Coins/assets/100410170/9e96baa7-bb62-4fee-9e5e-81fdcce4712e" width="250"> 
 </div>
 
-## You can download the application by clicking on the link below. 👇 
+## You can download the application by clicking on the link below 👇 
 [calculating_bmi](https://github.com/Zonetto/Flutter-Coins/files/12269050/calculating_bmi.apk.zip)
