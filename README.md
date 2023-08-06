@@ -3,7 +3,7 @@
 
 ## About app 
 #### Calorie calculation, just select the gender, height, age, and weight, then press the "النتيجة" button, and the amount of calories for the body will appear.
-> **It was the first app I developed in Flutter, around 2020.**
+> **It was the first app I developed in Flutter, around 2021/7.**
  
 **SDK**
 <br/>
