@@ -17,4 +17,4 @@
 </div>
 
 ## You can download the application by clicking on the link below 👇 
-[calculating_bmi](https://github.com/Zonetto/Flutter-Coins/files/12269050/calculating_bmi.apk.zip)
+[calculating-bmi](https://github.com/Zonetto/Flutter-Coins/files/12269050/calculating_bmi.apk.zip)
